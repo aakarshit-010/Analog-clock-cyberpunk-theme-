@@ -1,12 +1,13 @@
 # Chronosphere Analog Clock
 
-A cyberpunk themed time app built with React.
+A cyberpunk-themed time app built with React, featuring an analog clock, digital time display, and stopwatch.
 
-Features:
+## Features
+
 - Smooth analog clock with animated hands
 - Digital clock with 12-hour and 24-hour modes
 - Stopwatch with lap tracking
-- Responsive UI for desktop and mobile
+- Responsive layout for desktop and mobile
 
 ## Tech Stack
 
@@ -23,22 +24,23 @@ Features:
 - Node.js (recommended: 18 LTS or newer)
 - npm (comes with Node.js)
 
-## Run Locally
+## Getting Started
 
-1. Open terminal in this folder.
-2. Install dependencies:
+1. Clone this repository.
+2. Open the project folder.
+3. Install dependencies:
 
 ```bash
 npm install
 ```
 
-3. Start development server:
+4. Start the development server:
 
 ```bash
 npm start
 ```
 
-4. Open in browser:
+5. Open in browser:
 
 http://localhost:3000
 
@@ -48,24 +50,10 @@ http://localhost:3000
 npm run build
 ```
 
-This generates the production files in the build folder.
+This generates an optimized production build in the build folder.
 
-## Scripts
+## Available Scripts
 
-- npm start: Run development server
-- npm run build: Create production build
+- npm start: Run the development server
+- npm run build: Create a production build
 - npm test: Run tests
-
-## GitHub Upload Notes
-
-Push these:
-- src
-- public
-- package.json
-- package-lock.json
-- .gitignore
-- README.md
-
-Do not push:
-- node_modules
-- build
