@@ -16,10 +16,7 @@ Features:
 
 ## Project Screenshot
 
-![Chronosphere App Screenshot](./screenshots/chronosphere.png)
-
-Add your screenshot image file at this path:
-- screenshots/chronosphere.png
+![Chronosphere App Screenshot](https://raw.githubusercontent.com/aakarshit-010/Analog-clock-cyberpunk-theme-/main/screenshots/chronosphere.png)
 
 ## Requirements
 
